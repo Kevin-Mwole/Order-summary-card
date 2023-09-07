@@ -9,5 +9,5 @@ Your users should be able to:
 
 - See hover states for interactive elements
 
-  ## Screenshot Result
-![Screenshot](SCR.png)
+
+
